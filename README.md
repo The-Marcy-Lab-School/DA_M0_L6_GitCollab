@@ -1,6 +1,8 @@
 # DA_M0_L6_GitCollab
 
-## Directions:  Your instructor will add you as a collaborator to this repository so that you can edit this file on a separate branch (that you create).  After CLONING down this repo to your local machine, Underneath your name you will add a GIF/IMAGE > Add/Commit/Push those Changes to YOUR BRANCH > Submit a Pull Request.  Wait until Lecture 6 to complete this.  
+#### Directions:  
+
+Your instructor will add you as a collaborator to this repository so that you can edit this file on a separate branch (that you create).  After CLONING down this repo to your local machine, Underneath your name you will add a GIF/IMAGE > Add/Commit/Push those Changes to YOUR BRANCH > Submit a Pull Request.  Wait until Lecture 6 to complete this.  
 
 - Student 1
 
