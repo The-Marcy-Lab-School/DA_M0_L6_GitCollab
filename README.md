@@ -1,2 +1,33 @@
 # DA_M0_L6_GitCollab
-Use this repo to help students learn how to collaborate on Github 
+
+## Directions:  Your instructor will add you as a collaborator to this repository so that you can edit this file on a separate branch (that you create).  After CLONING down this repo to your local machine, Underneath your name you will add a GIF/IMAGE > Add/Commit/Push those Changes to YOUR BRANCH > Submit a Pull Request.  Wait until Lecture 6 to complete this.  
+
+- Student 1
+
+- Student 2
+
+- Student 3
+
+- Student 4
+
+- Student 5
+
+- Student 6
+
+- Student 7
+
+- Student 8
+
+- Student 9
+
+- Student 10
+
+- Student 11
+
+- Student 12
+
+- Student 13
+
+- Student 14
+
+- TEST STUDENT (For Instructor Use) 
