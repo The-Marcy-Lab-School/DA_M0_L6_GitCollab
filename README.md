@@ -20,7 +20,9 @@ Your instructor will add you as a collaborator to this repository so that you ca
 
 - Student 5
 
-<img src="https://i.makeagif.com/media/2-10-2024/HNeb46.gif">
+-![Sample Gif](https://makeagif.com/i/HNeb46)
+
++<img src="/art/sample.gif?raw=true" width="200px">
 
 - Student 6
 
