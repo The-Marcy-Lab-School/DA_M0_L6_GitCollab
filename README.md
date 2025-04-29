@@ -34,7 +34,9 @@ Your instructor will add you as a collaborator to this repository so that you ca
 
 - Student 12
 
-- Student 13
+- Kevin
+
+- ![Tuesday](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV4bmZ1YmRoYm44cjA4bHdsNnc2M3lvOHl4azJveXR0N2kwZ2ZzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HrfPJcCI1ykdtH6LOW/giphy.gif)
 
 - Student 14
 
