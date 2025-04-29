@@ -19,8 +19,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
 - Student 4
 
 - Student 5
-
-![Rick Ross jumping bridge](Rick_Ross_Speeding-ezgif.com-optimize-1.gif)
+<img src ="Rick_Ross_Speeding-ezgif.com-optimize.gif" width = "150">
 
 - Student 6
 
