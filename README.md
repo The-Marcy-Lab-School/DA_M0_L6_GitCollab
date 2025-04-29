@@ -20,7 +20,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
 
 - Student 5
 
-https://s7.ezgif.com/tmp/ezgif-72baf35b3228ac.gif
+file:///Users/Marcy_Student/Downloads/Rick_Ross_Speeding-ezgif.com-optimize.gif
 
 - Student 6
 
