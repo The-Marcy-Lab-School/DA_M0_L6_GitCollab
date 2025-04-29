@@ -26,15 +26,24 @@ Your instructor will add you as a collaborator to this repository so that you ca
 
 - Student 8
 
-- Student 9
-
+- Student 9 (itzel)
+[
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshortpixel.com%2Fblog%2Fexploring-animated-gifs%2F&psig=AOvVaw24PM3x9wxBy7G3SXfwgjpZ&ust=1746029335541000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjk1qTQ_YwDFQAAAAAdAAAAABAE)
 - Student 10
 
-- Student 11
+- Student 11 (Ayema)
+  
+<img src="https://github.com/user-attachments/assets/468c4fdc-5ebc-4865-8927-b7d99ed940c7" width="150">
 
 - Student 12
+
 - Ro![My Image](https://media.tenor.com/B4RwmB1rojYAAAAM/homie-dance-2homie-dance.gif)
 - Student 13
+
+
+- Kevin
+
+- ![Tuesday](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV4bmZ1YmRoYm44cjA4bHdsNnc2M3lvOHl4azJveXR0N2kwZ2ZzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HrfPJcCI1ykdtH6LOW/giphy.gif)
 
 - Student 14
 
