@@ -31,6 +31,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
 - Student 10
 
 - Student 11
+![Alt text](repo-repo-game.gif)
 
 - Student 12
 
