@@ -33,8 +33,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
 - Student 11
 
 - Student 12
-Ro
-![My Image](https://media.tenor.com/B4RwmB1rojYAAAAM/homie-dance-2homie-dance.gif)
+- Ro![My Image](https://media.tenor.com/B4RwmB1rojYAAAAM/homie-dance-2homie-dance.gif)
 - Student 13
 
 - Student 14
