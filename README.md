@@ -20,7 +20,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
 
 - Student 5
 
-https://makeagif.com/i/HNeb46
+https://i.makeagif.com/media/2-10-2024/HNeb46.gif
 
 - Student 6
 
