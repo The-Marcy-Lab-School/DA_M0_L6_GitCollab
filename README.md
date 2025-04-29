@@ -27,7 +27,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
 - Student 8
 
 - Student 9 (itzel)
-<img [](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshortpixel.com%2Fblog%2Fexploring-animated-gifs%2F&psig=AOvVaw24PM3x9wxBy7G3SXfwgjpZ&ust=1746029335541000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjk1qTQ_YwDFQAAAAAdAAAAABAE)
+[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshortpixel.com%2Fblog%2Fexploring-animated-gifs%2F&psig=AOvVaw24PM3x9wxBy7G3SXfwgjpZ&ust=1746029335541000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjk1qTQ_YwDFQAAAAAdAAAAABAE)
 - Student 10
 
 - Student 11 (Ayema)
