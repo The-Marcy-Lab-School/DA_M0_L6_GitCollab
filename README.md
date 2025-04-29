@@ -29,7 +29,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
 - Student 9
 
 - Thierno Barry 
-![alt text](image.png)
+![Messi](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg)
 
 - Student 11
 
