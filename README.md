@@ -12,7 +12,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
 
 - Student 1
 Angel
-![my image](https://tenor.com/view/cat-dancing-meme-dancing-cat-white-cat-meme-gif-24092585)
+![my image](https://media1.tenor.com/m/ABeVmJ3y2WQAAAAd/cat-dancing-meme-dancing.gif)
 - Student 2
 
 - Student 3
