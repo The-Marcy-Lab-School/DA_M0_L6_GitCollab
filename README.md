@@ -35,8 +35,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
   
 <img src="https://github.com/user-attachments/assets/468c4fdc-5ebc-4865-8927-b7d99ed940c7" width="150">
 
-- Student 12
-
+- Student 12 (Ro)
 - Ro![My Image](https://media.tenor.com/B4RwmB1rojYAAAAM/homie-dance-2homie-dance.gif)
 - Student 13
 
