@@ -20,9 +20,7 @@ Your instructor will add you as a collaborator to this repository so that you ca
 
 - Student 5
 
--![Sample Gif](https://makeagif.com/i/HNeb46)
-
-+<img src="/art/sample.gif?raw=true" width="200px">
+![alt text](Rick_Ross_Speeding-ezgif.com-optimize-1.gif) ![alt text](Rick_Ross_Speeding-ezgif.com-optimize-2.gif) ![alt text](Rick_Ross_Speeding-1.gif) ![alt text](Rick_Ross_Speeding-2.gif) ![alt text](test.gif)
 
 - Student 6
 
