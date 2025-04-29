@@ -28,7 +28,8 @@ Your instructor will add you as a collaborator to this repository so that you ca
 
 - Student 9
 
-- Student 10
+- Thierno Barry 
+![alt text](image.png)
 
 - Student 11
 
