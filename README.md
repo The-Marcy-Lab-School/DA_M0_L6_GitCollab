@@ -20,6 +20,8 @@ Your instructor will add you as a collaborator to this repository so that you ca
 
 - Student 5
 
+https://i.imgur.com/vwpLW63.gif
+
 - Student 6
 
 - Student 7
