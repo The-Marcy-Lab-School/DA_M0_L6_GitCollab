@@ -19,7 +19,8 @@ Your instructor will add you as a collaborator to this repository so that you ca
 - Student 4
 
 - Student 5
-<img src ="Rick_Ross_Speeding-ezgif.com-optimize.gif" width = "150">
+
+![Rick_Ross_Speeding](https://github.com/user-attachments/assets/63a20ef0-54c4-4e31-bb21-9e6e6694c6e7)
 
 - Student 6
 
