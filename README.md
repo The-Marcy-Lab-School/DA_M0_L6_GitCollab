@@ -24,7 +24,8 @@ Ibrahima
 
 - Student 6
 
-- Student 7
+- vincent
+![my image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW13NHoyMmxhbjZjY3l6amJuZTdtN2RkeXBzbjhla2kyNGJ2ZXI3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YiLaqBQDBuyFCU/giphy.gif)
 
 - Student 8
 
