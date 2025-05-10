@@ -15,6 +15,8 @@ Your instructor will add you as a collaborator to this repository so that you ca
 - Student 2
 
 - Student 3
+Thomas Segal
+![Thomas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Foptical-illusions-33%2F&psig=AOvVaw2oHMmCSroVPzqbqBwDy5pc&ust=1746027082679000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjSkfLH_YwDFQAAAAAdAAAAABAE).
 
 - Student 4
 Ibrahima
