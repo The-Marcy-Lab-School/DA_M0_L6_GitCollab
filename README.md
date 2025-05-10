@@ -11,7 +11,8 @@ Your instructor will add you as a collaborator to this repository so that you ca
 <b>Wait until Lecture 6 to complete this.</b> 
 
 - Student 1
-
+Angel
+![my image](https://media1.tenor.com/m/ABeVmJ3y2WQAAAAd/cat-dancing-meme-dancing.gif)
 - Student 2
 
 - Student 3
